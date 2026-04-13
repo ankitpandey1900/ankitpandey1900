@@ -1,7 +1,6 @@
 <div align="center">
 
-  <!-- Profile Picture -->
-  <img src="https://avatars.githubusercontent.com/u/201644476?v=4" width="220" height="220" style="border-radius: 50%; border: 6px solid #10B981; box-shadow: 0 0 30px rgba(16, 185, 129, 0.5); margin-bottom: 20px;" alt="Ankit Pandey" />
+ 
 
   <h1>Hi, I'm Ankit Pandey 👋</h1>
 
