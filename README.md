@@ -100,20 +100,19 @@ Daily fitness routine, weight, and habit tracker designed specifically for crick
 <div align="center">
 
 <!-- Dark mode optimized stats -->
-<a href="https://github.com/ankitpandey1900#gh-dark-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitpandey1900&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats (Dark)" />
-</a>
+![](https://github-readme-stats.shion.dev/api?username=ankitpandey1900&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=ankitpandey1900&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ankitpandey1900&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-</div>
+---
+
 
 ---
 
 ### 📫 Let's Connect
 
-- **LinkedIn**: [linkedin.com/in/ankitpandey1900](https://www.linkedin.com/in/ankitpandey1900/)
-- **X**: [x.com/AnkitPande5641](https://x.com/AnkitPande5641)
-- **GitHub**: [github.com/ankitpandey1900](https://github.com/ankitpandey1900)
-- **Portfolio**: Coming Soon
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ankitpandey1900/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/AnkitPande5641) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankit1pandey11@gmail.com) 
+ **Portfolio**: Coming Soon
 
 Always open to interesting discussions, collaborations, or opportunities in **full-stack development**, **system design**, and **AI-powered products**.
 
