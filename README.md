@@ -92,6 +92,12 @@ Smart system to track multiple mess subscriptions with analytics, streaks, heatm
 Daily fitness routine, weight, and habit tracker designed specifically for cricket academy athletes.
 
 - **Repo**: [github.com/ankitpandey1900/fitness_tracker](https://github.com/ankitpandey1900/fitness_tracker)
+#### 🛰️ **IPWala** - DNS and network analysis toolkit with a terminal-first interface 
+Modern DNS & Network Toolkit — built for developers who prefer the terminal.
+
+- Built with **Nextjs + Typescript + Tailwind + shadcn/ui**
+- **Live**: [ipwala.vercel.app](https://ipwala.vercel.app/)
+- **Repo**:[github.com/ankitpandey1900/ipwala](https://github.com/ankitpandey1900/ipwala)
 
 ---
 
