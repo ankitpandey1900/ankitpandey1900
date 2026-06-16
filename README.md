@@ -80,6 +80,13 @@ A powerful full-stack productivity system with gamified tracking, real-time glob
 - **Live**: [alltracker.online](https://www.alltracker.online/)
 - **Repo**: [github.com/ankitpandey1900/AllTracker](https://github.com/ankitpandey1900/AllTracker)
 
+#### 💰 **Tallymate** - A web app for **personal finance** — track expenses, income, debts, budgets, and split bills with friends. All your money management in one place.
+
+- Built with **Nextjs + Typescript + Tailwind + shadcn/ui + Prisma ORM + Better-Auth**
+- **Live**: [tallymatte.vercel.app](https://tallymatte.vercel.app/)
+- **Repo**:[github.com/ankitpandey1900/tallymate](https://github.com/ankitpandey1900/tallymate)
+ 
+
 #### 📱 **Mess Tracker** — Thali Management System
 Smart system to track multiple mess subscriptions with analytics, streaks, heatmap, and smart calculations.
 
@@ -98,6 +105,7 @@ Modern DNS & Network Toolkit — built for developers who prefer the terminal.
 - Built with **Nextjs + Typescript + Tailwind + shadcn/ui**
 - **Live**: [ipwala.vercel.app](https://ipwala.vercel.app/)
 - **Repo**:[github.com/ankitpandey1900/ipwala](https://github.com/ankitpandey1900/ipwala)
+
 
 ---
 
