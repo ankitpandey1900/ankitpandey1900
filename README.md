@@ -83,7 +83,7 @@ A powerful full-stack productivity system with gamified tracking, real-time glob
 #### 💰 **Tallymate** - A web app for **personal finance** — track expenses, income, debts, budgets, and split bills with friends. All your money management in one place.
 
 - Built with **Nextjs + Typescript + Tailwind + shadcn/ui + Prisma ORM + Better-Auth**
-- **Live**: [tallymatte.vercel.app](https://tallymate.alltracker.online/)
+- **Live**: [tallymate.alltracker.online](https://tallymate.alltracker.online/)
 - **Repo**:[github.com/ankitpandey1900/tallymate](https://github.com/ankitpandey1900/tallymate)
  
 
