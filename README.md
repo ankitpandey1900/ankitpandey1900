@@ -125,8 +125,9 @@ Modern DNS & Network Toolkit — built for developers who prefer the terminal.
 
 ### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankitpandey1900/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AnkitPande5641) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankit1pandey11@gmail.com) 
- **Portfolio**: Coming Soon
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankitpandey1900/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ankitpandey190) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankit1pandey11@gmail.com) 
+
+ **Portfolio**: [ankitpandey19.vercel.app](https://ankitpandey19.vercel.app/)
 
 Always open to interesting discussions, collaborations, or opportunities in **full-stack development**, **system design**, and **AI-powered products**.
 
