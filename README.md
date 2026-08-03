@@ -1,8 +1,12 @@
 <div align="center">
 
   <h1>Hey, I'm Ankit 👋</h1>
-  <p><em>Software Engineering student · rebuilding from fundamentals, out loud</em></p>
+  <h3>Full Stack Developer (in progress) | Software Engineering Student</h3>
 
+  <p>
+    <strong>Building systems, not just projects.</strong><br>
+    I turn ideas into real, usable products that solve actual problems.
+  </p>
   <p>
     <a href="https://www.linkedin.com/in/ankitpandey1900/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="https://x.com/AnkitPande5641"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
