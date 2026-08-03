@@ -1,138 +1,139 @@
 <div align="center">
 
- 
-
-  <h1>Hi, I'm Ankit Pandey 👋</h1>
-
-  <h3>Full Stack Developer (in progress) | Software Engineering Student</h3>
+  <h1>Hey, I'm Ankit 👋</h1>
+  <p><em>Software Engineering student · rebuilding from fundamentals, out loud</em></p>
 
   <p>
-    <strong>Building systems, not just projects.</strong><br>
-    I turn ideas into real, usable products that solve actual problems.
+    <a href="https://www.linkedin.com/in/ankitpandey1900/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://x.com/AnkitPande5641"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
+    <a href="https://ankitpandey19.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-10B981?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+    <a href="mailto:ankit1pandey11@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   </p>
-
-  <!-- Badges -->
-  <p>
-    <img src="https://img.shields.io/badge/Location-India-FF4D4D?style=flat&logo=map-pin&logoColor=white" alt="Location" />
-    <img src="https://img.shields.io/badge/Focus-Full_Stack%20%7C%20System_Design%20%7C%20AI_Integration-4285F4?style=flat" alt="Focus" />
-  </p>
-
-  <!-- Social Links -->
-  <a href="https://www.linkedin.com/in/ankitpandey1900/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://x.com/AnkitPande5641" target="_blank">
-    <img src="https://img.shields.io/badge/X-Follow-000000?logo=x&logoColor=white&style=flat" alt="X" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/ankitpandey1900" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-ankitpandey1900-181717?logo=github&logoColor=white&style=flat" alt="GitHub" />
-  </a>
-  &nbsp;
-  <a href="https://www.alltracker.online/" target="_blank">
-    <img src="https://img.shields.io/badge/Live_Demo-AllTracker-10B981?style=flat&logo=vercel&logoColor=white" alt="AllTracker" />
-  </a>
 
 </div>
 
----
+<br>
 
-### 🚀 About Me
+### 🧠 About
 
-I'm a passionate **Software Engineering student** racing to reach elite-level development.  
+I'm a passionate Software Engineering student racing to reach elite-level development.
 
-I don’t just learn technologies — I **build real-world products** and robust systems that people can actually use every day.  
+I don’t just learn technologies — I build real-world products and robust systems that people can actually use every day.
 
 My current focus:
-- Full Stack Development
-- Backend Architecture & System Design
-- AI Integration in practical applications
-- Creating polished, production-ready experiences
 
+Full Stack Development
+Backend Architecture & System Design
+AI Integration in practical applications
+Creating polished, production-ready experiences
 Currently investing heavily in building high-quality tools for students, developers, and creators.
+<br>
 
----
-
-### 🛠️ Tech Stack
+### 🛠️ Stack
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=javascript,typescript,python,html,css,tailwind,supabase,postgresql,mongodb,git,vercel,netlify&perline=6" alt="Tech Stack Icons" />
-
-<br><br>
-
-**AI & Productivity Tools**  
-**Claude • Cursor • Antigravity**
-
+<img src="https://skillicons.dev/icons?i=js,ts,py,html,css,tailwind,nextjs,supabase,postgres,mongodb,git&theme=dark" alt="stack icons"/>
 </div>
 
----
+<div align="center"><sub>Learning &gt; mastered — C++ DSA is the current boss fight.</sub></div>
 
-### 🔥 Featured Projects
+<br>
 
-#### 🌐 **AllTracker** — Productivity & Study Control System
-A powerful full-stack productivity system with gamified tracking, real-time global leaderboard, AI strategist (Maamu), and achievement vault.
+### 🔥 Projects
 
-- Built with **TypeScript + Supabase + Vite**
-- 90+ days | 500+ hours of focused work
-- Real-time updates, privacy-first design, cinematic UI
-- **Live**: [alltracker.online](https://www.alltracker.online/)
-- **Repo**: [github.com/ankitpandey1900/AllTracker](https://github.com/ankitpandey1900/AllTracker)
+<table>
+<tr>
+<td width="70%">
 
-#### 💰 **Tallymate** - A web app for **personal finance** — track expenses, income, debts, budgets, and split bills with friends. All your money management in one place.
+**AllTracker** 🏆 — study/focus tracker with a real-time leaderboard and streaks.
+TypeScript + Supabase + Vite. Real-time sync across users without stale state was the actual fight here — first time I properly used realtime subscriptions instead of just polling like a caveman.
 
-- Built with **Nextjs + Typescript + Tailwind + shadcn/ui + Prisma ORM + Better-Auth**
-- **Live**: [tallymate.alltracker.online](https://tallymate.alltracker.online/)
-- **Repo**:[github.com/ankitpandey1900/tallymate](https://github.com/ankitpandey1900/tallymate)
- 
+</td>
+<td align="center">
 
-#### 📱 **Mess Tracker** — Thali Management System
-Smart system to track multiple mess subscriptions with analytics, streaks, heatmap, and smart calculations.
+[![Live](https://img.shields.io/badge/Live-10B981?style=flat-square&logo=vercel&logoColor=white)](https://www.alltracker.online/)
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ankitpandey1900/AllTracker)
 
-- Built with **HTML + CSS + JavaScript + localStorage**
-- Clean glassmorphic UI focused on simplicity and structure
-- **Live**: [mess-tracker.netlify.app](https://mess-tracker.netlify.app/)
-- **Repo**: [github.com/ankitpandey1900/Mess-Tracker](https://github.com/ankitpandey1900/Mess-Tracker)
+</td>
+</tr>
+<tr>
+<td width="70%">
 
-#### 🧠 **Fitness Tracker** — For Cricket Academy
-Daily fitness routine, weight, and habit tracker designed specifically for cricket academy athletes.
+**Tallymate** 💰 — personal finance app: expenses, income, debts, budgets, bill-splitting.
+Next.js + TypeScript + Prisma + Better-Auth. First project where I sketched the DB schema *before* touching UI — made me actually think about who-owes-whom logic instead of winging it.
 
-- **Repo**: [github.com/ankitpandey1900/fitness_tracker](https://github.com/ankitpandey1900/fitness_tracker)
-#### 🛰️ **IPWala** - DNS and network analysis toolkit with a terminal-first interface 
-Modern DNS & Network Toolkit — built for developers who prefer the terminal.
+</td>
+<td align="center">
 
-- Built with **Nextjs + Typescript + Tailwind + shadcn/ui**
-- **Live**: [ipwala.vercel.app](https://ipwala.vercel.app/)
-- **Repo**:[github.com/ankitpandey1900/ipwala](https://github.com/ankitpandey1900/ipwala)
+[![Live](https://img.shields.io/badge/Live-10B981?style=flat-square&logo=vercel&logoColor=white)](https://tallymate.alltracker.online/)
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ankitpandey1900/tallymate)
 
+</td>
+</tr>
+<tr>
+<td width="70%">
 
----
+**IPWala** 🛰️ — terminal-style DNS & network lookup toolkit.
+Next.js + TypeScript + Tailwind. Built so I'd actually understand DNS record types (A, MX, TXT, CNAME) instead of just dumping API JSON on a page.
+
+</td>
+<td align="center">
+
+[![Live](https://img.shields.io/badge/Live-10B981?style=flat-square&logo=vercel&logoColor=white)](https://ipwala.vercel.app/)
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ankitpandey1900/ipwala)
+
+</td>
+</tr>
+<tr>
+<td width="70%">
+
+**Mess Tracker** 📱 — tracks mess/thali subscriptions with usage streaks & analytics.
+Vanilla HTML/CSS/JS + localStorage. No framework — on purpose, to prove I could manage state without React doing it for me.
+
+</td>
+<td align="center">
+
+[![Live](https://img.shields.io/badge/Live-10B981?style=flat-square&logo=netlify&logoColor=white)](https://mess-tracker.netlify.app/)
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ankitpandey1900/Mess-Tracker)
+
+</td>
+</tr>
+<tr>
+<td width="70%">
+
+**Fitness Tracker** 🏋️ — daily fitness/weight/habit tracker for a local cricket academy.
+Small, built for one real user who actually asked for it — not a portfolio filler.
+
+</td>
+<td align="center">
+
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ankitpandey1900/fitness_tracker)
+
+</td>
+</tr>
+</table>
+
+<br>
 
 ### 📊 GitHub Stats
 
 <div align="center">
 
-<!-- Dark mode optimized stats -->
-![](https://github-readme-stats.shion.dev/api?username=ankitpandey1900&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=ankitpandey1900&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ankitpandey1900&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://github-readme-stats.shion.dev/api?username=ankitpandey1900&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ankitpandey1900&theme=dark&hide_border=true&layout=compact" alt="Top Languages" height="165"/>
 
----
+<br>
 
+<img src="https://streak-stats.demolab.com/?user=ankitpandey1900&theme=dark&hide_border=true" alt="Streak Stats"/>
 
----
+<br>
 
-### 📫 Let's Connect
+<img src="https://github-profile-trophy.vercel.app/?username=ankitpandey1900&theme=darkhub&no-frame=true&row=1&column=6" alt="Trophies"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankitpandey1900/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ankitpandey190) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankit1pandey11@gmail.com) 
+</div>
 
- **Portfolio**: [ankitpandey19.vercel.app](https://ankitpandey19.vercel.app/)
-
-Always open to interesting discussions, collaborations, or opportunities in **full-stack development**, **system design**, and **AI-powered products**.
-
----
+<br>
 
 <div align="center">
-  <strong>Currently in debugging mode... but shipping anyway ⚡</strong>
+<sub>Still in debugging mode... but shipping anyway  ⚡</sub>
 </div>
