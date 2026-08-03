@@ -9,7 +9,7 @@
   </p>
   <p>
     <a href="https://www.linkedin.com/in/ankitpandey1900/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="https://x.com/AnkitPande5641"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
+    <a href="https://x.com/ankitpandey190"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
     <a href="https://ankitpandey19.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-10B981?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
     <a href="mailto:ankit1pandey11@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   </p>
