@@ -45,73 +45,101 @@ Currently investing heavily in building high-quality tools for students, develop
 
 ### 🔥 Projects
 
+### 🚀 Featured Projects
+
 <table>
 <tr>
-<td width="70%">
+<td width="70%" valign="top">
 
-**AllTracker** 🏆 — study/focus tracker with a real-time leaderboard and streaks.
-TypeScript + Supabase + Vite. Real-time sync across users without stale state was the actual fight here — first time I properly used realtime subscriptions instead of just polling like a caveman.
+### 🏆 AllTracker
 
-</td>
-<td align="center">
+A study and focus tracker built around **real-time competition**. Track focus sessions, maintain streaks, and compete on a live leaderboard with other users.
 
-[![Live](https://img.shields.io/badge/Live-10B981?style=flat-square&logo=vercel&logoColor=white)](https://www.alltracker.online/)
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ankitpandey1900/AllTracker)
+**Stack:** TypeScript · Supabase · Vite
 
-</td>
-</tr>
-<tr>
-<td width="70%">
-
-**Tallymate** 💰 — personal finance app: expenses, income, debts, budgets, bill-splitting.
-Next.js + TypeScript + Prisma + Better-Auth. First project where I sketched the DB schema *before* touching UI — made me actually think about who-owes-whom logic instead of winging it.
+> The interesting part was keeping leaderboard state synchronized across users with realtime subscriptions instead of relying on polling.
 
 </td>
-<td align="center">
 
-[![Live](https://img.shields.io/badge/Live-10B981?style=flat-square&logo=vercel&logoColor=white)](https://tallymate.alltracker.online/)
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ankitpandey1900/tallymate)
+<td width="30%" align="center" valign="middle">
+
+[![Live](https://img.shields.io/badge/Live-10B981?style=for-the-badge\&logo=vercel\&logoColor=white)](https://www.alltracker.online/)
+
+<br><br>
+
+[![Source](https://img.shields.io/badge/Source-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ankitpandey1900/AllTracker)
 
 </td>
 </tr>
-<tr>
-<td width="70%">
 
-**IPWala** 🛰️ — terminal-style DNS & network lookup toolkit.
-Next.js + TypeScript + Tailwind. Built so I'd actually understand DNS record types (A, MX, TXT, CNAME) instead of just dumping API JSON on a page.
+<tr>
+<td width="70%" valign="top">
+
+### 💰 Tallymate
+
+A personal finance platform for managing **expenses, income, debts, budgets, and bill splitting**. Designed to make complicated "who owes whom" logic feel simple.
+
+**Stack:** Next.js · TypeScript · Prisma · Better-Auth
+
+> One of my first projects where I designed the database schema before touching the UI — which completely changed how I approached the application.
 
 </td>
-<td align="center">
 
-[![Live](https://img.shields.io/badge/Live-10B981?style=flat-square&logo=vercel&logoColor=white)](https://ipwala.vercel.app/)
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ankitpandey1900/ipwala)
+<td width="30%" align="center" valign="middle">
+
+[![Live](https://img.shields.io/badge/Live-10B981?style=for-the-badge\&logo=vercel\&logoColor=white)](https://tallymate.alltracker.online/)
+
+<br><br>
+
+[![Source](https://img.shields.io/badge/Source-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ankitpandey1900/tallymate)
 
 </td>
 </tr>
-<tr>
-<td width="70%">
 
-**Mess Tracker** 📱 — tracks mess/thali subscriptions with usage streaks & analytics.
-Vanilla HTML/CSS/JS + localStorage. No framework — on purpose, to prove I could manage state without React doing it for me.
+<tr>
+<td width="70%" valign="top">
+
+### 🛰️ IPWala
+
+A terminal-inspired **DNS and network lookup toolkit** for exploring A, MX, TXT, CNAME, and other DNS records without hiding the underlying networking concepts.
+
+**Stack:** Next.js · TypeScript · Tailwind CSS
+
+> Built as a hands-on way to understand DNS instead of simply displaying API responses.
 
 </td>
-<td align="center">
 
-[![Live](https://img.shields.io/badge/Live-10B981?style=flat-square&logo=netlify&logoColor=white)](https://mess-tracker.netlify.app/)
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ankitpandey1900/Mess-Tracker)
+<td width="30%" align="center" valign="middle">
+
+[![Live](https://img.shields.io/badge/Live-10B981?style=for-the-badge\&logo=vercel\&logoColor=white)](https://ipwala.vercel.app/)
+
+<br><br>
+
+[![Source](https://img.shields.io/badge/Source-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ankitpandey1900/ipwala)
 
 </td>
 </tr>
-<tr>
-<td width="70%">
 
-**Fitness Tracker** 🏋️ — daily fitness/weight/habit tracker for a local cricket academy.
-Small, built for one real user who actually asked for it — not a portfolio filler.
+<tr>
+<td width="70%" valign="top">
+
+### 🎵 Banaras Mehfil
+
+An immersive digital music experience inspired by the atmosphere of a **Banaras ghat during an evening of live music**. The interface focuses on bringing the warmth, culture, and feeling of the ghats into a digital music experience.
+
+**Stack:** React · TypeScript · Vite · Supabase · React YouTube · Lucide React
+
+> Built to feel like an experience rather than another generic music player.
 
 </td>
-<td align="center">
 
-[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ankitpandey1900/fitness_tracker)
+<td width="30%" align="center" valign="middle">
+
+[![Live](https://img.shields.io/badge/Live-10B981?style=for-the-badge\&logo=vercel\&logoColor=white)](https://banaras-mehfil.vercel.app/)
+
+<br><br>
+
+[![Source](https://img.shields.io/badge/Source-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ankitpandey1900/banaras_mehfil)
 
 </td>
 </tr>
@@ -119,22 +147,57 @@ Small, built for one real user who actually asked for it — not a portfolio fil
 
 <br>
 
-### 📊 GitHub Stats
 
-<div align="center">
+##  GitHub Dashboard
 
-<img src="https://github-readme-stats.shion.dev/api?username=ankitpandey1900&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ankitpandey1900&theme=dark&hide_border=true&layout=compact" alt="Top Languages" height="165"/>
+<!-- GitHub Stats + Languages -->
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+<img
+  src="https://github-readme-stats.shion.dev/api?username=ankitpandey1900&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"
+  width="100%"
+  alt="GitHub Stats"
+/>
+
+</td>
+
+<td width="50%" align="center">
+
+<img
+  src="https://github-readme-stats.shion.dev/api/top-langs/?username=ankitpandey1900&theme=github_dark&hide_border=true&layout=compact&langs_count=8"
+  width="100%"
+  alt="Top Languages"
+/>
+
+</td>
+</tr>
+</table>
 
 <br>
 
-<img src="https://streak-stats.demolab.com/?user=ankitpandey1900&theme=dark&hide_border=true" alt="Streak Stats"/>
+<!-- GitHub Streak -->
 
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=ankitpandey1900&theme=darkhub&no-frame=true&row=1&column=6" alt="Trophies"/>
+<img
+  src="https://streak-stats.demolab.com/?user=ankitpandey1900&theme=github-dark-blue&hide_border=true"
+  width="75%"
+  alt="GitHub Streak"
+/>
 
 </div>
+
+<br><br>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankitpandey1900&theme=github_dark"
+  width="98%"
+  alt="Contribution Overview"
+/>
+
+<br><br>
+
 
 <br>
 
