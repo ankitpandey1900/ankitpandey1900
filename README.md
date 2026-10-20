@@ -7,6 +7,7 @@
     <strong>Building systems, not just projects.</strong><br>
     I turn ideas into real, usable products that solve actual problems.
   </p>
+
   <p>
     <a href="https://www.linkedin.com/in/ankitpandey1900/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="https://x.com/ankitpandey190"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
@@ -20,30 +21,27 @@
 
 ### 🧠 About
 
-I'm a passionate Software Engineering student racing to reach elite-level development.
+Software Engineering student who ships. In the past year I've built a realtime leaderboard app, a personal finance platform, a DNS toolkit, and a Rust desktop disk analyzer, each one live and usable.
 
-I don’t just learn technologies — I build real-world products and robust systems that people can actually use every day.
+**What I'm focused on right now:**
 
-My current focus:
+- Full Stack Development
+- Backend Architecture & System Design
+- Systems programming with Rust
+- AI integration in practical applications
+- Building polished, production-ready tools for students, developers, and creators
 
-Full Stack Development
-Backend Architecture & System Design
-AI Integration in practical applications
-Creating polished, production-ready experiences
-Currently investing heavily in building high-quality tools for students, developers, and creators.
 <br>
 
 ### 🛠️ Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,py,html,css,tailwind,nextjs,supabase,postgres,mongodb,git&theme=dark" alt="stack icons"/>
+<img src="https://skillicons.dev/icons?i=js,ts,py,rust,cpp,html,css,tailwind,react,nextjs,tauri,supabase,postgres,mongodb,git&theme=dark" alt="stack icons"/>
 </div>
 
-<div align="center"><sub>Learning &gt; mastered — C++ DSA is the current boss fight.</sub></div>
+<div align="center"><sub>Learning &gt; mastered. C++ DSA is the current boss fight.</sub></div>
 
 <br>
-
-### 🔥 Projects
 
 ### 🚀 Featured Projects
 
@@ -51,7 +49,31 @@ Currently investing heavily in building high-quality tools for students, develop
 <tr>
 <td width="70%" valign="top">
 
-### 🏆 AllTracker
+#### 🗺️ ByteMap
+
+A fast, private **desktop disk analyzer** that shows where your storage actually went. It scans with native Rust threads, renders an interactive squarified treemap, finds duplicates with a 3-stage BLAKE3 pipeline, and keeps everything in memory, so there is no database and no telemetry.
+
+**Stack:** Tauri 2 · Rust · React · TypeScript · Tailwind CSS
+
+> The interesting part was designing for privacy and safety: scan data lives only in RAM, and every deletion is path-validated and rechecked against the scan snapshot before anything touches the Recycle Bin.
+
+</td>
+
+<td width="30%" align="center" valign="middle">
+
+[![Download](https://img.shields.io/badge/Download-10B981?style=for-the-badge&logo=vercel&logoColor=white)](https://bytemap.alltracker.online/)
+
+<br><br>
+
+[![Source](https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ankitpandey1900/ByteMap)
+
+</td>
+</tr>
+
+<tr>
+<td width="70%" valign="top">
+
+#### 🏆 AllTracker
 
 A study and focus tracker built around **real-time competition**. Track focus sessions, maintain streaks, and compete on a live leaderboard with other users.
 
@@ -63,11 +85,11 @@ A study and focus tracker built around **real-time competition**. Track focus se
 
 <td width="30%" align="center" valign="middle">
 
-[![Live](https://img.shields.io/badge/Live-10B981?style=for-the-badge\&logo=vercel\&logoColor=white)](https://www.alltracker.online/)
+[![Live](https://img.shields.io/badge/Live-10B981?style=for-the-badge&logo=vercel&logoColor=white)](https://www.alltracker.online/)
 
 <br><br>
 
-[![Source](https://img.shields.io/badge/Source-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ankitpandey1900/AllTracker)
+[![Source](https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ankitpandey1900/AllTracker)
 
 </td>
 </tr>
@@ -75,23 +97,23 @@ A study and focus tracker built around **real-time competition**. Track focus se
 <tr>
 <td width="70%" valign="top">
 
-### 💰 Tallymate
+#### 💰 Tallymate
 
 A personal finance platform for managing **expenses, income, debts, budgets, and bill splitting**. Designed to make complicated "who owes whom" logic feel simple.
 
 **Stack:** Next.js · TypeScript · Prisma · Better-Auth
 
-> One of my first projects where I designed the database schema before touching the UI — which completely changed how I approached the application.
+> One of my first projects where I designed the database schema before touching the UI, which completely changed how I approach applications.
 
 </td>
 
 <td width="30%" align="center" valign="middle">
 
-[![Live](https://img.shields.io/badge/Live-10B981?style=for-the-badge\&logo=vercel\&logoColor=white)](https://tallymate.alltracker.online/)
+[![Live](https://img.shields.io/badge/Live-10B981?style=for-the-badge&logo=vercel&logoColor=white)](https://tallymate.alltracker.online/)
 
 <br><br>
 
-[![Source](https://img.shields.io/badge/Source-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ankitpandey1900/tallymate)
+[![Source](https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ankitpandey1900/tallymate)
 
 </td>
 </tr>
@@ -99,7 +121,7 @@ A personal finance platform for managing **expenses, income, debts, budgets, and
 <tr>
 <td width="70%" valign="top">
 
-### 🛰️ IPWala
+#### 🛰️ IPWala
 
 A terminal-inspired **DNS and network lookup toolkit** for exploring A, MX, TXT, CNAME, and other DNS records without hiding the underlying networking concepts.
 
@@ -111,35 +133,11 @@ A terminal-inspired **DNS and network lookup toolkit** for exploring A, MX, TXT,
 
 <td width="30%" align="center" valign="middle">
 
-[![Live](https://img.shields.io/badge/Live-10B981?style=for-the-badge\&logo=vercel\&logoColor=white)](https://ipwala.vercel.app/)
+[![Live](https://img.shields.io/badge/Live-10B981?style=for-the-badge&logo=vercel&logoColor=white)](https://ipwala.vercel.app/)
 
 <br><br>
 
-[![Source](https://img.shields.io/badge/Source-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ankitpandey1900/ipwala)
-
-</td>
-</tr>
-
-<tr>
-<td width="70%" valign="top">
-
-### 🎵 Banaras Mehfil
-
-An immersive digital music experience inspired by the atmosphere of a **Banaras ghat during an evening of live music**. The interface focuses on bringing the warmth, culture, and feeling of the ghats into a digital music experience.
-
-**Stack:** React · TypeScript · Vite · Supabase · React YouTube · Lucide React
-
-> Built to feel like an experience rather than another generic music player.
-
-</td>
-
-<td width="30%" align="center" valign="middle">
-
-[![Live](https://img.shields.io/badge/Live-10B981?style=for-the-badge\&logo=vercel\&logoColor=white)](https://banaras-mehfil.vercel.app/)
-
-<br><br>
-
-[![Source](https://img.shields.io/badge/Source-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ankitpandey1900/banaras_mehfil)
+[![Source](https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ankitpandey1900/ipwala)
 
 </td>
 </tr>
@@ -147,10 +145,9 @@ An immersive digital music experience inspired by the atmosphere of a **Banaras 
 
 <br>
 
+### 📊 GitHub Dashboard
 
-##  GitHub Dashboard
-
-<!-- GitHub Stats + Languages -->
+<div align="center">
 
 <table>
 <tr>
@@ -176,31 +173,10 @@ An immersive digital music experience inspired by the atmosphere of a **Banaras 
 </tr>
 </table>
 
-<br>
-
-<!-- GitHub Streak -->
-
-<img
-  src="https://streak-stats.demolab.com/?user=ankitpandey1900&theme=github-dark-blue&hide_border=true"
-  width="75%"
-  alt="GitHub Streak"
-/>
-
 </div>
-
-<br><br>
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankitpandey1900&theme=github_dark"
-  width="98%"
-  alt="Contribution Overview"
-/>
-
-<br><br>
-
 
 <br>
 
 <div align="center">
-<sub>Still in debugging mode... but shipping anyway  ⚡</sub>
+<sub>Still in debugging mode... but shipping anyway ⚡</sub>
 </div>
